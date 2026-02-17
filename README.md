@@ -2,7 +2,7 @@
 #### 1) Vivek Vaani  |  [click here](https://github.com/adityakanamadi281/Vivek_Vaani)
 #### 2) Krishna Vaani  |  [click here](https://github.com/adityakanamadi281/Krishna_Vaani)
 #### 3) Kantara Songs Embeddings | [click here](https://github.com/adityakanamadi281/Kantara_songs_Embeddings)
-#### 4) AI Web Summarizer | [click here](https://github.com/adityakanamadi281/Web_Summarizer)
+#### 4) AI Web Summarizer | [click here](https://github.com/adityakanamadi281/AI_Website_Summarizer)
 #### 5) RAG Agent | [click here](https://github.com/adityakanamadi281/RAG_Agent)
 #### 6) OllamaRAG | [click here](https://github.com/adityakanamadi281/OllamaRAG)
 #### 7) Swiggy RAG Agent | [click here](https://github.com/adityakanamadi281/Swiggy_RAG_Agent)
