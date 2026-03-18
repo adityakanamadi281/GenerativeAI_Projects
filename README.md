@@ -18,3 +18,5 @@
 #### 1) Fine-Tuning LLMs  | [click here](https://github.com/adityakanamadi281/Fine_Tuning_LLM)
 
 # 4) Multi-Agent Systems
+#### 1) Multimodal JEE Math-Mentor | [click here](https://github.com/adityakanamadi281/jee-math-mentor)
+#### 2) AutoEDA AI  | [click here](https://github.com/adityakanamadi281/AutoEDA_AI)
